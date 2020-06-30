@@ -16,3 +16,4 @@
 12. [A나누기B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%EB%82%98%EB%88%84%EA%B8%B0B.java)
 13. [기찍 N](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EA%B8%B0%EC%B0%8DN.java)
 14. [별찍기_2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B3%84%EC%B0%8D%EA%B8%B0_2.java)
+15. [세 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%84%B8%EA%B0%9C%EC%9D%98%EC%88%98.java)

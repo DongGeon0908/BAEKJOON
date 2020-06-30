@@ -15,3 +15,4 @@
 11. [아스키 코드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%95%84%EC%8A%A4%ED%82%A4%EC%BD%94%EB%93%9C.java)
 12. [A나누기B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%EB%82%98%EB%88%84%EA%B8%B0B.java)
 13. [기찍 N](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EA%B8%B0%EC%B0%8DN.java)
+14. [별찍기_2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B3%84%EC%B0%8D%EA%B8%B0_2.java)

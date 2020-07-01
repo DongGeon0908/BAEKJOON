@@ -20,3 +20,4 @@
 16. [두 수 비교하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%91%90%EC%88%98%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.java)
 17. [상수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%83%81%EC%88%98.java)
 18. [곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EA%B3%B1%EC%85%88.java)
+19. [평균](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%ED%8F%89%EA%B7%A0.java)

@@ -18,3 +18,4 @@
 14. [별찍기_2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B3%84%EC%B0%8D%EA%B8%B0_2.java)
 15. [세 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%84%B8%EA%B0%9C%EC%9D%98%EC%88%98.java)
 16. [두 수 비교하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%91%90%EC%88%98%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.java)
+17. [상수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%83%81%EC%88%98.java)

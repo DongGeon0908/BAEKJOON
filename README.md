@@ -22,3 +22,4 @@
 18. [곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EA%B3%B1%EC%85%88.java)
 19. [평균](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%ED%8F%89%EA%B7%A0.java)
 20. [최댓값](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%B5%9C%EB%8C%93%EA%B0%92.java)
+21. [열 개씩 끊어 출력](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%97%B4%EA%B0%9C%EC%94%A9%EB%81%8A%EC%96%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.java)

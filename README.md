@@ -27,3 +27,4 @@
 23. [나머지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%82%98%EB%A8%B8%EC%A7%80.java)
 24. [OX퀴즈](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/OX%ED%80%B4%EC%A6%88.java)
 25. [달팽이는 올라가고 싶다](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%8B%AC%ED%8C%BD%EC%9D%B4%EB%8A%94%EC%98%AC%EB%9D%BC%EA%B0%80%EA%B3%A0%EC%8B%B6%EB%8B%A4.java)
+26. [윤년](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%9C%A4%EB%85%84.java)

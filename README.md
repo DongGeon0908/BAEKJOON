@@ -31,3 +31,4 @@
 27. [알람 시계](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%95%8C%EB%9E%8C%EC%8B%9C%EA%B3%84.java)
 28. [A+B - 3](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB-3.java)
 29. [합](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%ED%95%A9.java)
+30. [빠른 A + B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B9%A0%EB%A5%B8A%2BB.java)

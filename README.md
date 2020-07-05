@@ -34,3 +34,4 @@
 30. [빠른 A + B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B9%A0%EB%A5%B8A%2BB.java)
 31. [A+B - 7](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB-7.java)
 32. [A+B - 8](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB-8.java)
+33. [별 찍기 - 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B3%84%EC%B0%8D%EA%B8%B0-2.java)

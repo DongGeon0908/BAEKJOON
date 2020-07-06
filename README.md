@@ -1,6 +1,10 @@
 # BAEKJOON
 
 <hr/>
+<b>공지</b> 
+기존의 문제들은 저부 해당 문제의 이름과 같은 JAVA파일을 올렸지만, 앞으로는 백준에 등록된 번호로 문제를 추가하겠습니다!
+오늘도 동건동건동건
+<hr/>
 
 1. [A+B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB.java)
 2. [A-B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A-B.java)

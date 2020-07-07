@@ -41,3 +41,4 @@
 33. [별 찍기 - 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B3%84%EC%B0%8D%EA%B8%B0-2.java)
 34. [X보다 작은 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/X%EB%B3%B4%EB%8B%A4%EC%9E%91%EC%9D%80%EC%88%98.java)
 35. [등록](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%93%B1%EB%A1%9D.java)
+36. [별 찍기 - 3]

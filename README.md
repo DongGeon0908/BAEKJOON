@@ -46,3 +46,4 @@
 38. [숫자의 합](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/11720.java)
 39. [별 찍기 - 4](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2441.java)
 40. [숫자의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2577.java)
+41. [소수 구하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1929.java)

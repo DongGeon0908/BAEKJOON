@@ -53,3 +53,4 @@
 45. [정수 N개의 합](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15596.java)
 46. [팩토리얼](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10872.java)
 47. [피보나치 수 5](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10870.java)
+48. [A+B - 6](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10953.java)

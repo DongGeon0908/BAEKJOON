@@ -56,3 +56,4 @@
 48. [A+B - 6](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10953.java)
 49. [정ㅋ벅ㅋ](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1237.java)
 50. [손익분기점](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1712.java)
+51. [최소, ](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10818.java)

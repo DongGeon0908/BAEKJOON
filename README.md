@@ -65,3 +65,4 @@
 57. [별 찍기 - 6](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2443.java)
 58. [별 찍기 - 12](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2522.java)
 59. [사파리월드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2420.java)
+60. [타노스](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15802.java)

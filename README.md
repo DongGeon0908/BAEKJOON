@@ -60,3 +60,4 @@
 52. [소수 찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1978.java)
 53. [직각삼각형](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/4153.java)
 54. [상근날드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/5543.java)
+55. [별 찍기 - 13](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2523.java)

@@ -62,3 +62,4 @@
 54. [상근날드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/5543.java)
 55. [별 찍기 - 13](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2523.java)
 56. [별 찍기 - 5](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2442.java)
+57. [별 찍기 - 6](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2443.java)

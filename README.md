@@ -68,3 +68,4 @@
 60. [타노스](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15802.java)
 61. [조교는 새디스트야!!](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/14656.java)
 62. [평균은 넘겠지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/4344.java)
+63. [단어의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1152.java)

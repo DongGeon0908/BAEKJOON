@@ -70,3 +70,4 @@
 62. [평균은 넘겠지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/4344.java)
 63. [단어의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1152.java)
 64. [홍익대학교](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/16394.java)
+65. [소트인사이드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1427.java)

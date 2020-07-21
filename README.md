@@ -78,3 +78,4 @@
 70. [스타워즈 로고](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/9653.java)
 71. [더하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/14918.java)
 72. [피시방 알바](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1453.java)
+73. [1998년생인 내가 태국에서는 2541년생?!](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/18108.java)

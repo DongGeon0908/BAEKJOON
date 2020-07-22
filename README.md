@@ -80,3 +80,4 @@
 72. [피시방 알바](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1453.java)
 73. [1998년생인 내가 태국에서는 2541년생?!](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/18108.java)
 74. [16진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1550.java)
+75. [R2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/3046.java)

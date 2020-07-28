@@ -90,3 +90,4 @@
 82. [더하기 사이클](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1110.java)
 83. [지능형 ](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2455.java)
 84. [별 찍기 - 7](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2444.java)
+85. [수학은 비대면강의입니다](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/19532.java)

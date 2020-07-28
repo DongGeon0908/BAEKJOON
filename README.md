@@ -87,3 +87,4 @@
 79. [ATM](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/11399.java)
 80. [별 찍기 - 9](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2446.java)
 81. [나머지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/3052.java)
+82. (더하기 사이클)[https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1110.java]

@@ -7,7 +7,7 @@
 <hr/>
 
 <details markdown="1">
-<summary>1 ~ 10</summary>
+<summary>1번 ~ 10번</summary>
 
  1. [A+B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB.java)
  2. [A-B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A-B.java)
@@ -21,6 +21,8 @@
  10. [시험 성적](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.java)
  
 </details>
+<details markdown="1">
+<summary>11번 ~ 20번</summary>
 
 11. [아스키 코드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%95%84%EC%8A%A4%ED%82%A4%EC%BD%94%EB%93%9C.java)
 12. [A나누기B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%EB%82%98%EB%88%84%EA%B8%B0B.java)
@@ -32,6 +34,11 @@
 18. [곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EA%B3%B1%EC%85%88.java)
 19. [평균](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%ED%8F%89%EA%B7%A0.java)
 20. [최댓값](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%B5%9C%EB%8C%93%EA%B0%92.java)
+
+</details>
+<details markdown="1">
+<summary>21번 ~ 30번</summary>
+
 21. [열 개씩 끊어 출력](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%97%B4%EA%B0%9C%EC%94%A9%EB%81%8A%EC%96%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.java)
 22. [사분면 고르기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EC%82%AC%EB%B6%84%EB%A9%B4%EA%B3%A0%EB%A5%B4%EA%B8%B0.java)
 23. [나머지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%82%98%EB%A8%B8%EC%A7%80.java)
@@ -42,6 +49,11 @@
 28. [A+B - 3](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB-3.java)
 29. [합](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%ED%95%A9.java)
 30. [빠른 A + B](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B9%A0%EB%A5%B8A%2BB.java)
+
+</details>
+<details markdown="1">
+<summary>31번 ~ 40번</summary>
+
 31. [A+B - 7](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB-7.java)
 32. [A+B - 8](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/A%2BB-8.java)
 33. [별 찍기 - 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/%EB%B3%84%EC%B0%8D%EA%B8%B0-2.java)
@@ -52,6 +64,11 @@
 38. [숫자의 합](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/11720.java)
 39. [별 찍기 - 4](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2441.java)
 40. [숫자의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2577.java)
+
+</details>
+<details markdown="1">
+<summary>41번 ~ 50번</summary>
+
 41. [소수 구하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1929.java)
 42. [수 정렬하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2750.java)
 43. [평균 점수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10039.java)
@@ -62,6 +79,11 @@
 48. [A+B - 6](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10953.java)
 49. [정ㅋ벅ㅋ](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1237.java)
 50. [손익분기점](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1712.java)
+
+</details>
+<details markdown="1">
+<summary>51번 ~ 60번</summary>
+
 51. [최소,최대](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10818.java)
 52. [소수 찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1978.java)
 53. [직각삼각형](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/4153.java)
@@ -72,6 +94,12 @@
 58. [별 찍기 - 12](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2522.java)
 59. [사파리월드](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2420.java)
 60. [타노스](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15802.java)
+
+</details>
+
+<details markdown="1">
+<summary>61번 ~ 70번</summary>
+
 61. [조교는 새디스트야!!](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/14656.java)
 62. [평균은 넘겠지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/4344.java)
 63. [단어의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1152.java)
@@ -82,6 +110,11 @@
 68. [사분면](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/9610.java)
 69. [카드 게임](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/5522.java)
 70. [스타워즈 로고](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/9653.java)
+
+</details>
+<details markdown="1">
+<summary>1번 ~ 10번</summary>
+
 71. [더하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/14918.java)
 72. [피시방 알바](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1453.java)
 73. [1998년생인 내가 태국에서는 2541년생?!](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/18108.java)
@@ -92,6 +125,11 @@
 78. [A+B - 4](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10951.java)
 79. [ATM](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/11399.java)
 80. [별 찍기 - 9](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2446.java)
+
+</details>
+<details markdown="1">
+<summary>1번 ~ 10번</summary>
+
 81. [나머지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/3052.java)
 82. [더하기 사이클](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1110.java)
 83. [지능형 ](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2455.java)
@@ -102,5 +140,12 @@
 88. [제로](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10773.java)
 89. [새로운 시작](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15962.java)
 90. [접미사 배열](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/11656.java)
+
+</details>
+<details markdown="1">
+<summary>1번 ~ 10번</summary>
+
 91. [팰린드롬수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1259.java)
 92. [펠린드롬](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/13235.java)
+
+</details>

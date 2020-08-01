@@ -113,7 +113,7 @@
 
 </details>
 <details markdown="1">
-<summary>1번 ~ 10번</summary>
+<summary>71번 ~ 80번</summary>
 
 71. [더하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/14918.java)
 72. [피시방 알바](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1453.java)
@@ -128,7 +128,7 @@
 
 </details>
 <details markdown="1">
-<summary>1번 ~ 10번</summary>
+<summary>81번 ~ 90번</summary>
 
 81. [나머지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/3052.java)
 82. [더하기 사이클](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1110.java)
@@ -143,7 +143,7 @@
 
 </details>
 <details markdown="1">
-<summary>1번 ~ 10번</summary>
+<summary>91번 ~ 100번</summary>
 
 91. [팰린드롬수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1259.java)
 92. [펠린드롬](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/13235.java)

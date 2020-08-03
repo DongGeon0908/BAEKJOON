@@ -149,4 +149,5 @@
 92. [펠린드롬](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/13235.java)
 93. [10부제](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10797.java)
 94. [알파벳 찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10809.java)
+95. [별 찍기 - 21](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10996.java)
 </details>

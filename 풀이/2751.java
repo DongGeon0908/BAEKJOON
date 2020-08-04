@@ -8,12 +8,11 @@ import java.util.Scanner;
 public class Main {
 	public static void sort(int[] a) {
 		int n = a.length;
-		int[] aux = new int[n]; // 보조배열
+		int[] aux = new int[n]; 
 		sort(a, 0, n - 1, aux);
 
 	}
 
-	// 재귀 도우미(recursion helper) 함수
 	private static void sort(int[] a, int low, int high, int[] aux) {
 		if (low >= high) {
 			return;

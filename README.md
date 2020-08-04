@@ -152,4 +152,6 @@
 95. [별 찍기 - 21](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10996.java)
 96. [별 찍기 - 20](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10995.java)
 97. [별 찍기 - 14](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2556.java)
+98. [제곱 ㄴㄴ 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1016.java)
+
 </details>

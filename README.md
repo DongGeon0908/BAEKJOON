@@ -160,4 +160,6 @@
 <details markdown="1">
 <summary>101번 ~ 110번</summary>
 
+101. [소수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2581.java)
+
 </details>

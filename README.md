@@ -163,5 +163,6 @@
 101. [소수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2581.java)
 102. [검증수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2475.java)
 103. [수 정렬하기 3](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10989.java)
+104. [직사각형에서 탈출](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1085.java)
 
 </details>

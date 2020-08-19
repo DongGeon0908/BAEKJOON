@@ -191,6 +191,6 @@
 <summary>121번 ~ 130번</summary>
 
 121. [셀프 넘버](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/4673.java)
-
+122. [Hello Judge](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/9316.java)
 
 </details>

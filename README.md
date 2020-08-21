@@ -194,5 +194,6 @@
 122. [Hello Judge](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/9316.java)
 123. [영수증](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/5565.java)
 124. [설탕 배달](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2839.java)
+125. [수 찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1920.java)
 
 </details>

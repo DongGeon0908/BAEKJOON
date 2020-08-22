@@ -196,5 +196,6 @@
 124. [설탕 배달](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2839.java)
 125. [수 찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1920.java)
 126. [한수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1065.java)
+127. [전자레인지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10162.java)
 
 </details>

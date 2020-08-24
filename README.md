@@ -198,5 +198,6 @@
 126. [한수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1065.java)
 127. [전자레인지](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/10162.java)
 128. [명령 프롬프트](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1032.java)
+129. [단어공부](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/1157.java)
 
 </details>

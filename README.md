@@ -206,5 +206,6 @@
 <summary>131번 ~ 140번</summary>
 
 131. [연세대학교](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15680.java)
+132. [KMP는 왜 KMP일까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2902.java)
 
 </details>

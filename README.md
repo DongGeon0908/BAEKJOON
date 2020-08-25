@@ -202,3 +202,9 @@
 130. [저작권](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2914.java)
 
 </details>
+<details markdown="1">
+<summary>131번 ~ 140번</summary>
+
+131. [연세대학교](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15680.java)
+
+</details>

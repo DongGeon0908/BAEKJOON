@@ -208,5 +208,6 @@
 131. [연세대학교](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15680.java)
 132. [KMP는 왜 KMP일까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2902.java)
 133. [다이얼](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/5622.java)
+134. [시그마](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2355.java)
 
 </details>

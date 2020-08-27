@@ -209,5 +209,6 @@
 132. [KMP는 왜 KMP일까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2902.java)
 133. [다이얼](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/5622.java)
 134. [시그마](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2355.java)
+135. [킹, 퀸, 룩, 비숍, 나이트, 폰](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/3003.java)
 
 </details>

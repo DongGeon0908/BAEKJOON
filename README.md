@@ -221,5 +221,6 @@
 <summary>141번 ~ 150번</summary>
 
 141. [소음](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2935.java)
+142. [로프](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2217.java)
 
 </details>

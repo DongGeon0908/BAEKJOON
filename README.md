@@ -223,5 +223,6 @@
 141. [소음](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2935.java)
 142. [로프](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2217.java)
 143. [피보나치 수 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2748.java)
+144. [가위 바위 보 999](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15913.java)
 
 </details>

@@ -226,5 +226,6 @@
 144. [가위 바위 보 999](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/15913.java)
 145. [피보나치 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2747.java)
 146. [벌집](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2292.java)
+147. [생일 출력하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/%ED%92%80%EC%9D%B4/2555.java)
 
 </details>

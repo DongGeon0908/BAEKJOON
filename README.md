@@ -238,6 +238,8 @@
 <details markdown="1">
 <summary>151번 ~ 160번</summary>
 
+151. [세수정렬](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2752.java)
+
 </details>
 
 

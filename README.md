@@ -240,6 +240,7 @@
 
 151. [세수정렬](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2752.java)
 152. [좌표 정렬하기 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11651.java)
+153. [세로읽기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10798.java)
 
 </details>
 

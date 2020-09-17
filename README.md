@@ -243,6 +243,7 @@
 153. [세로읽기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10798.java)
 154. [분수찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1193.java)
 155. [파도반 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9461.java)
+156. [ACM 호텔](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10250.java)
 
 </details>
 

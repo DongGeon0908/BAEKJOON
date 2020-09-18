@@ -244,6 +244,7 @@
 154. [분수찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1193.java)
 155. [파도반 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9461.java)
 156. [ACM 호텔](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10250.java)
+157. [이항 계수 1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11050.java)
 
 </details>
 

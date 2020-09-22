@@ -258,6 +258,7 @@
 163. [음계](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2920.java)
 164. [나는 요리사다](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2953.java)
 165. [중복 빼고 정렬하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10867.java)
+166. [홀수일까 짝수일까](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5988.java)
 
 </details>
 

@@ -260,6 +260,7 @@
 165. [중복 빼고 정렬하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10867.java)
 166. [홀수일까 짝수일까](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5988.java)
 167. [대표값2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2587.java)
+168. [TGN](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5063.java)
 
 </details>
 

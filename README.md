@@ -269,6 +269,7 @@
 <summary>171번 ~ 180번</summary>
 
 171. [알파벳 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10808.java)
+172. [심부름 가는 길](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5554.java)
 
 </details>
 

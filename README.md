@@ -268,7 +268,7 @@
 <details markdown="2">
 <summary>171번 ~ 180번</summary>
 
-(https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10808.java)
+1. [알파벳 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10808.java)
 
 </details>
 

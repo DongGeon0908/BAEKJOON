@@ -265,10 +265,10 @@
 170. [하노이 탑](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1914.java)
 
 </details>
-<details markdown="2">
+<details markdown="1">
 <summary>171번 ~ 180번</summary>
 
-1. [알파벳 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10808.java)
+171. [알파벳 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10808.java)
 
 </details>
 

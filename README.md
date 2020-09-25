@@ -273,6 +273,7 @@
 173. [5와 6의 차이](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2864.java)
 174. [문자열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9086.java)
 175. [학점계산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2754.java)
+176. [트로피 진열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1668.java)
 
 </details>
 

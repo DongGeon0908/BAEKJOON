@@ -278,3 +278,10 @@
 </details>
 
 ### PYTHON
+
+<details markdown="1">
+<summary>1번 ~ 10번</summary>
+
+1. [Hello World](https://github.com/DongGeon0908/BAEKJOON/blob/master/python/2557.py)
+
+<details markdown="1">

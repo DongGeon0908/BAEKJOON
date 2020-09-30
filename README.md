@@ -277,6 +277,7 @@
 177. [IOIOI](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5525.java)
 178. [택시 기하학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3053.java)
 179. [단어 뒤집기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9093.java)
+180. [나는야 포켓몬 마스터 이다솜](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1620.java)
 
 </details>
 

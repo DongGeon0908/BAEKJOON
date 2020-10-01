@@ -284,6 +284,7 @@
 <summary>181번 ~ 190번</summary>
 
 181. [N과 M (1)](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15649.java)
+182. [크냐?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4101.java)
 
 </details>
 

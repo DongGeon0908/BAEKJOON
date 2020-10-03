@@ -1,8 +1,6 @@
-import java.util.Scanner;
-
 public class Main {
 	public static void main(String[] args) {
 
-		System.out.println(".  .   .\r\n" + "|  | _ | _. _ ._ _  _\r\n" + "|/\\|(/.|(_.(_)[ | )(/.");
+		System.out.println(".  .   .\n" + "|  | _ | _. _ ._ _  _\n" + "|/\\|(/.|(_.(_)[ | )(/.\n");
 	}
 }

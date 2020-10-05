@@ -299,6 +299,7 @@
 <summary>191번 ~ 200번</summary>
 
 191. [긴자리 계산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2338.java)
+192. [파티가 끝나고 난 뒤](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2845.java)
 
 </details>
 

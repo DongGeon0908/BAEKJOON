@@ -310,5 +310,6 @@
 <summary>1번 ~ 10번</summary>
 
 1. [Hello World](https://github.com/DongGeon0908/BAEKJOON/blob/master/python/2557.py)
+2. [Time to Decompress](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17010.java)
 
 <details markdown="1">

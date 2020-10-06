@@ -301,6 +301,7 @@
 191. [긴자리 계산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2338.java)
 192. [파티가 끝나고 난 뒤](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2845.java)
 193. [이번학기 평점은 몇점?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2755.java)
+194. [Time to Decompress](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17010.java)
 
 </details>
 
@@ -310,6 +311,5 @@
 <summary>1번 ~ 10번</summary>
 
 1. [Hello World](https://github.com/DongGeon0908/BAEKJOON/blob/master/python/2557.py)
-2. [Time to Decompress](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17010.java)
 
 <details markdown="1">

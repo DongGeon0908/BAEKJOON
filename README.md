@@ -303,6 +303,7 @@
 193. [이번학기 평점은 몇점?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2755.java)
 194. [Time to Decompress](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17010.java)
 195. [N과 M (2)](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15650.java)
+196. [개구리 1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/19563.java)
 
 </details>
 

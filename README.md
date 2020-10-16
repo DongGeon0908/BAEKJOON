@@ -310,6 +310,12 @@
 200. [최대공약수와 최소공배수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2609.java)
 
 </details>
+<details markdown="1">
+<summary>201번 ~ 210번</summary>
+
+201. [최소공배수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1934.java)
+
+</details>
 
 ### PYTHON
 

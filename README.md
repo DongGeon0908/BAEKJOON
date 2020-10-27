@@ -318,6 +318,7 @@
 203. [하얀 칸](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1100.java)
 204. [백설 공주와 일곱 난쟁이](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3040.java)
 205. [약수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1037.java)
+206. [스택](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10828.java)
 
 </details>
 

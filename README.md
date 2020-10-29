@@ -320,6 +320,7 @@
 205. [약수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1037.java)
 206. [스택](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10828.java)
 207. [큐](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10845.java)
+208. [요세푸스 문제](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1158.java)
 
 </details>
 

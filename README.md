@@ -329,6 +329,7 @@
 <summary>211번 ~ 220번</summary>
 
 211. [LCS](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9251.java)
+212. [0 = not cute / 1 = cute](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10886.java)
 
 </details>
 

@@ -331,6 +331,7 @@
 211. [LCS](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9251.java)
 212. [0 = not cute / 1 = cute](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10886.java)
 213. [모음의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10987.java)
+214. [첫 글자를 대문자로](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4458.java)
 
 
 </details>

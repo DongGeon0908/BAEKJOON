@@ -335,6 +335,7 @@
 215. [플러그](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2010.java)
 216. [고려대는 사랑입니다](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11942.java)
 217. [터렛](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1002.java)
+218. [윷놀이](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2490.java)
 
 </details>
 

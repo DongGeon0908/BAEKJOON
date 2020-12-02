@@ -344,6 +344,7 @@
 <summary>221번 ~ 230번</summary>
 
 221. [운동장 한 바퀴](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/16486.java)
+222. [와글와글 숭고한](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17388.java)
 
 </details>
 

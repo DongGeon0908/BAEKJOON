@@ -348,6 +348,7 @@
 223. [뉴비의 기준은 뭘까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/19944.java)
 224. [이상한 기호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15964.java)
 225. [3 つの整数](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18408.java)
+226. [새](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1568.java)
 
 </details>
 

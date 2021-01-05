@@ -350,6 +350,7 @@
 225. [3 つの整数](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18408.java)
 226. [새](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1568.java)
 227. [Fly me to the Alpha Centauri](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1011.java)
+228. [베르트랑 공준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4948.java)
 
 </details>
 

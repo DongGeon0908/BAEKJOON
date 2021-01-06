@@ -4,7 +4,6 @@
 <b>공지</b> 
 기존의 문제들은 전부 해당 문제의 이름과 같은 JAVA파일을 올렸지만, 앞으로는 백준에 등록된 번호로 문제를 추가하겠습니다!
 오늘도 동건동건동건
-!!! 이제부터 파이썬도 열심히 코딩할겁니다!
 <hr/>
 
 ### JAVA
@@ -351,14 +350,6 @@
 226. [새](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1568.java)
 227. [Fly me to the Alpha Centauri](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1011.java)
 228. [베르트랑 공준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4948.java)
+229. [골드바흐의 추측](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9020.java)
 
 </details>
-
-### PYTHON
-
-<details markdown="1">
-<summary>1번 ~ 10번</summary>
-
-1. [Hello World](https://github.com/DongGeon0908/BAEKJOON/blob/master/python/2557.py)
-
-<details markdown="1">

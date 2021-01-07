@@ -351,5 +351,6 @@
 227. [Fly me to the Alpha Centauri](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1011.java)
 228. [베르트랑 공준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4948.java)
 229. [골드바흐의 추측](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9020.java)
+230. [블랙잭](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2798.java)
 
 </details>

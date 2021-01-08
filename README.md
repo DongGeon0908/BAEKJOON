@@ -9,9 +9,6 @@
 ### JAVA
 
 <details markdown="1">
-<summary>1번 ~ 50번</summary>
-
-<details markdown="1">
 <summary>1번 ~ 10번</summary>
 
  1. [A+B](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/A%2BB.java)
@@ -86,9 +83,6 @@
 50. [손익분기점](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1712.java)
 
 </details>
-
-</details>
-
 <details markdown="1">
 <summary>51번 ~ 60번</summary>
 

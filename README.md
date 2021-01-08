@@ -9,6 +9,9 @@
 ### JAVA
 
 <details markdown="1">
+<summary>1번 ~ 50번</summary>
+
+<details markdown="1">
 <summary>1번 ~ 10번</summary>
 
  1. [A+B](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/A%2BB.java)
@@ -83,6 +86,9 @@
 50. [손익분기점](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1712.java)
 
 </details>
+
+</details>
+
 <details markdown="1">
 <summary>51번 ~ 60번</summary>
 
@@ -352,5 +358,11 @@
 228. [베르트랑 공준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4948.java)
 229. [골드바흐의 추측](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9020.java)
 230. [블랙잭](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2798.java)
+
+</details>
+<details markdown="1">
+<summary>231번 ~ 240번</summary>
+
+231. [방학 숙제](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5532.java)
 
 </details>

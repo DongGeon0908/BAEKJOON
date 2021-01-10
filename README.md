@@ -352,5 +352,6 @@
 <summary>231번 ~ 240번</summary>
 
 231. [방학 숙제](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5532.java)
+232. [유학 금지](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2789.java)
 
 </details>

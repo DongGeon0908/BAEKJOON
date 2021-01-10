@@ -1,12 +1,6 @@
 # BAEKJOON
 
 <hr/>
-<b>공지</b> 
-기존의 문제들은 전부 해당 문제의 이름과 같은 JAVA파일을 올렸지만, 앞으로는 백준에 등록된 번호로 문제를 추가하겠습니다!
-오늘도 동건동건동건
-<hr/>
-
-### JAVA
 
 <details markdown="1">
 <summary>1번 ~ 10번</summary>

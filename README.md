@@ -358,5 +358,6 @@
 235. [더하기 3](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11023.java)
 236. [모음의 개수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1264.java)
 237. [약수 구하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2501.java)
+238. [초6 수학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2702.java)
 
 </details>

@@ -363,3 +363,9 @@
 240. [와이버스 부릉부릉](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14645.java)
 
 </details>
+<details markdown="1">
+<summary>241번 ~ 250번</summary>
+
+241. [시험 점수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5596.java)
+
+</details>

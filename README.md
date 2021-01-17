@@ -368,5 +368,6 @@
 
 241. [시험 점수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5596.java)
 242. [나는 누구인가](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15733.java)
+243. [너의 이름은 몇 점이니?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15813.java)
 
 </details>

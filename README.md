@@ -360,5 +360,6 @@
 237. [약수 구하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2501.java)
 238. [초6 수학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2702.java)
 239. [더하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9085.java)
+240. [와이버스 부릉부릉](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14645.java)
 
 </details>

@@ -371,5 +371,6 @@
 243. [너의 이름은 몇 점이니?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15813.java)
 244. [알파벳 거리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5218.java)
 245. [해밍 거리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3449.java)
+246. [입실 관리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5524.java)
 
 </details>

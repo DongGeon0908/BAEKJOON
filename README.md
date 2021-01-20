@@ -374,5 +374,6 @@
 246. [입실 관리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5524.java)
 247. [좋은 자동차 번호판](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1871.java)
 248. [비교 연산자](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5656.java)
+249. [지영 공주님의 마법 거울](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11586.java)
 
 </details>

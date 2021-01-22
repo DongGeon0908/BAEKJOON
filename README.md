@@ -378,3 +378,9 @@
 250. [문자열 집합](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14425.java)
 
 </details>
+<details markdown="1">
+<summary>251번 ~ 260번</summary>
+
+251. [팰린드롬인지 확인하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10988.java)
+
+</details>

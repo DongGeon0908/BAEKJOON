@@ -383,5 +383,7 @@
 
 251. [팰린드롬인지 확인하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10988.java)
 252. [닉네임에 갓 붙이기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13163.java)
+253. [줄번호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4470.java)
+
 
 </details>

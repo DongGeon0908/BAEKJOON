@@ -385,5 +385,6 @@
 252. [닉네임에 갓 붙이기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13163.java)
 253. [줄번호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4470.java)
 254. [JOI와 IOI](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5586.java)
+255. [!밀비 급일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11365.java)
 
 </details>

@@ -389,5 +389,6 @@
 256. [니모를 찾아서](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10173.java)
 257. [창영마을](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3028.java)
 258. [FBI](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2857.java)
+259. [태보태보 총난타](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17249.java)
 
 </details>

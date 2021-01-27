@@ -390,5 +390,6 @@
 257. [창영마을](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3028.java)
 258. [FBI](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2857.java)
 259. [태보태보 총난타](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17249.java)
+260. [줄임말 만들기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3181.java)
 
 </details>

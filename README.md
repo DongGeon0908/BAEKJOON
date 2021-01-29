@@ -400,5 +400,6 @@
 262. [대충 더해](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/8949.java)
 263. [2루수 이름이 뭐야](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17350.java)
 264. [FYI](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17863.java)
+265. [연길이의 이상형](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/20540.java)
 
 </details>

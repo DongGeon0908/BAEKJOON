@@ -401,5 +401,6 @@
 263. [2루수 이름이 뭐야](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17350.java)
 264. [FYI](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17863.java)
 265. [연길이의 이상형](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/20540.java)
+266. [George Boole](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13234.java)
 
 </details>

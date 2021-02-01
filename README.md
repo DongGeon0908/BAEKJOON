@@ -408,3 +408,9 @@
 270. [삼각형 외우기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10101.java)
 
 </details>
+<details markdown="1">
+<summary>271번 ~ 280번</summary>
+
+271. [사과](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10833.java)
+
+</details>

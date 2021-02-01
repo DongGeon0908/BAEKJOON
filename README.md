@@ -405,5 +405,6 @@
 267. [Greetings!](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17548.java)
 268. [Tapioka](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18142.java)
 269. [??!](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10926.java)
+270. [삼각형 외우기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10101.java)
 
 </details>

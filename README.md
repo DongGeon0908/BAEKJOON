@@ -415,5 +415,6 @@
 272. [콘테스트](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5576.java)
 273. [짝수를 찾아라](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3058.java)
 274. [주사위](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9295.java)
+275. [공](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1547.java)
 
 </details>

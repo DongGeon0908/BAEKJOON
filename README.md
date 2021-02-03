@@ -417,5 +417,6 @@
 274. [주사위](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9295.java)
 275. [공](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1547.java)
 276. [주사위 게임](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10103.java)
+277. [뜨거운 붕어빵](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11945.java)
 
 </details>

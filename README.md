@@ -426,4 +426,6 @@
 <details markdown="1">
 <summary>281번 ~ 290번</summary>
 
+281. [그릇](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/7567.java)
+
 </details>

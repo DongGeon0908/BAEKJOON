@@ -427,5 +427,6 @@
 <summary>281번 ~ 290번</summary>
 
 281. [그릇](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/7567.java)
+282. [치킨 두 마리 (...)](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14489.java)
 
 </details>

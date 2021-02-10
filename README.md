@@ -431,5 +431,6 @@
 283. [쿠폰](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10179.java)
 284. [행렬 덧셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2738.java)
 285. [팬들에게 둘러싸인 홍준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14581.java)
+286. [Winning Score](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17009.java)
 
 </details>

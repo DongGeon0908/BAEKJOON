@@ -433,5 +433,6 @@
 285. [팬들에게 둘러싸인 홍준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14581.java)
 286. [Winning Score](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17009.java)
 287. [페르시아의 왕들](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10599.java)
+288. [가위 바위 보?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4493.java)
 
 </details>

@@ -432,5 +432,6 @@
 284. [행렬 덧셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2738.java)
 285. [팬들에게 둘러싸인 홍준](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14581.java)
 286. [Winning Score](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17009.java)
+287. [페르시아의 왕들](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10599.java)
 
 </details>

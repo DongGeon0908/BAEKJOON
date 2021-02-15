@@ -443,5 +443,6 @@
 <summary>291번 ~ 300번</summary>
 
 291. [스네이크버드](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/16435.java)
+292. [과자](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10156.java)
 
 </details>

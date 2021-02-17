@@ -447,5 +447,6 @@
 293. [핸드폰 요금](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1267.java)
 294. [1, 2, 3 더하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9095.java)
 295. [수도요금](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10707.java)
+296. [동전1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2293.java)
 
 </details>

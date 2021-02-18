@@ -451,5 +451,6 @@
 297. [Darius님 한타 안 함?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/20499.java)
 298. [요세푸스 문제 0](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11866.java)
 299. [N번째 큰 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2693.java)
+300. [일곱 난쟁이](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2309.java)
 
 </details>

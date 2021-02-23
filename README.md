@@ -463,5 +463,6 @@
 304. [수 이어 쓰기 1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1748.java)
 305. [Baseball](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10214.java)
 306. [카드게임](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10801.java)
+307. [이상한 곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1225.java)
 
 </details>

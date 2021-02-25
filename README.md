@@ -466,5 +466,6 @@
 307. [이상한 곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1225.java)
 308. [Mini Fantasy War](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/12790.java)
 309. [완전제곱수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1977.java)
+410. [잃어버린 괄호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1541.java)
 
 </details>

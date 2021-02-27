@@ -1,5 +1,5 @@
 # BAEKJOON
-
+> 그리디, 브루트포스
 <hr/>
 
 <details markdown="1">

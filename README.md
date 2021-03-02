@@ -474,5 +474,6 @@
 
 311. [Tri-du](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13597.java)
 312. [파일 옮기기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11943.java)
+313. [경기 결과](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5523.java)
 
 </details>

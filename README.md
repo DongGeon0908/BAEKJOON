@@ -477,5 +477,6 @@
 313. [경기 결과](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5523.java)
 314. [주사위 세개](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2480.java)
 315. [화성 수학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5355.java)
+316. [세탁소 사장 동혁](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2720.java)
 
 </details>

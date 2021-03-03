@@ -476,5 +476,6 @@
 312. [파일 옮기기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11943.java)
 313. [경기 결과](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5523.java)
 314. [주사위 세개](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2480.java)
+315. [화성 수학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5355.java)
 
 </details>

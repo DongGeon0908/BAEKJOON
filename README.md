@@ -479,5 +479,6 @@
 315. [화성 수학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5355.java)
 316. [세탁소 사장 동혁](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2720.java)
 317. [최댓값](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2566.java)
+318. [상근이의 친구들](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5717.java)
 
 </details>

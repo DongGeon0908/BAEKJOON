@@ -1,7 +1,12 @@
 # BAEKJOON
-> 그리디, 브루트포스
+
 <hr/>
 
+> 백준 저지를 통해 알고리즘 문제를 학습하고, 정리하는 저장소
+
+<hr/>
+
+### 목차
 <details markdown="1">
 <summary>1번 ~ 10번</summary>
 

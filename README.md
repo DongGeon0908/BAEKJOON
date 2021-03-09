@@ -489,3 +489,9 @@
 320. [문자열 분석](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10820.java)
 
 </details>
+<details markdown="1">
+<summary>321번 ~ 330번</summary>
+
+321. [스택 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1874.java)
+
+</details>

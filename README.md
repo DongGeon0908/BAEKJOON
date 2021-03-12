@@ -497,5 +497,6 @@
 321. [스택 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1874.java)
 322. [패션왕 신해빈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9375.java)
 323. [과제](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13904.java)
+324. [정수 삼각형](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1932.java)
 
 </details>

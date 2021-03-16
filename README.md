@@ -501,5 +501,6 @@
 325. [피보나치 함수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1003.java)
 326. [계단 오르기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2579.java)
 327. [포도주 시식](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2156.java)
+328. [이친수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2193.java)
 
 </details>

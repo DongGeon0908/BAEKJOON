@@ -510,5 +510,6 @@
 <summary>331번 ~ 340번</summary>
 
 331. [행렬 곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2740.java)
+332. [초콜릿 자르기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2163.java)
 
 </details>

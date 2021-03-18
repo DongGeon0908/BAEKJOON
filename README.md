@@ -506,3 +506,9 @@
 330. [평범한 배낭](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/12865.java)
 
 </details>
+<details markdown="1">
+<summary>331번 ~ 340번</summary>
+
+331. [행렬 곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2740.java)
+
+</details>

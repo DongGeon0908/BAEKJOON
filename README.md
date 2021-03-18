@@ -511,5 +511,6 @@
 
 331. [행렬 곱셈](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2740.java)
 332. [초콜릿 자르기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2163.java)
+333. [주사위 게임](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2476.java)
 
 </details>

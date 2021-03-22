@@ -521,3 +521,9 @@
 340. [가장 많은 글자](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1371.java)
 
 </details>
+<details markdown="1">
+<summary>341번 ~ 350번</summary>
+
+341. [개표](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10102.java)
+
+</details>

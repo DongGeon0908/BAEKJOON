@@ -518,5 +518,6 @@
 337. [2×n 타일링](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11726.java)
 338. [RGB거리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1149.java)
 339. [2×n 타일링 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11727.java)
+340. [가장 많은 글자](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1371.java)
 
 </details>

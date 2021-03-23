@@ -526,5 +526,6 @@
 
 341. [개표](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10102.java)
 342. [하노이 탑 이동 순서](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11729.java)
+343. [마이크로소프트 로고](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5338.java)
 
 </details>

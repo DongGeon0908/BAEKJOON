@@ -525,5 +525,6 @@
 <summary>341번 ~ 350번</summary>
 
 341. [개표](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10102.java)
+342. [하노이 탑 이동 순서](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11729.java)
 
 </details>

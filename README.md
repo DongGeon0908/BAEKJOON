@@ -530,5 +530,6 @@
 344. [오늘 날짜](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10699.java)
 345. [듣보잡](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1764.java)
 346. [소수 단어](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2153.java)
+347. [더하기 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10823.java)
 
 </details>

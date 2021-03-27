@@ -533,5 +533,6 @@
 347. [더하기 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10823.java)
 348. [배수 찾기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4504.java)
 349. [부호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1247.java)
+350. [창영이의 일기장](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2954.java)
 
 </details>

@@ -542,5 +542,6 @@
 351. [Count Me In](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11319.java)
 352. [2+1 세일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11508.java)
 353. [IBM 빼기 1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/6321.java)
+354. [합 구하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11441.java)
 
 </details>

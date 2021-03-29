@@ -540,5 +540,6 @@
 <summary>351번 ~ 360번</summary>
 
 351. [Count Me In](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11319.java)
+352. [2+1 세일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11508.java)
 
 </details>

@@ -543,5 +543,6 @@
 352. [2+1 세일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11508.java)
 353. [IBM 빼기 1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/6321.java)
 354. [합 구하기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11441.java)
+355. [치킨 쿠폰](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1673.java)
 
 </details>

@@ -555,5 +555,6 @@
 <summary>361번 ~ 370번</summary>
 
 361. [ABC](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3047.java)
+362. [세 막대](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14215.java)
 
 </details>

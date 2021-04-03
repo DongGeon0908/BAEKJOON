@@ -559,5 +559,6 @@
 363. [가장 긴 증가하는 부분 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11053.java)
 364. [도비의 영어 공부](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2386.java)
 365. [미로 탐색](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2178.java)
+366. [백대열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14490.java)
 
 </details>

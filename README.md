@@ -563,5 +563,6 @@
 367. [가장 긴 감소하는 부분 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11722.java)
 368. [지능형 기차 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2460.java)
 369. [날짜 계산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1476.java)
+370. [Strfry](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11328.java)
 
 </details>

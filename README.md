@@ -566,3 +566,9 @@
 370. [Strfry](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11328.java)
 
 </details>
+<details markdown="1">
+<summary>371번 ~ 380번</summary>
+
+381. [쉬운 계단 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10844.java)
+
+</details>

@@ -24,7 +24,7 @@
  8. [사칙연산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.java)
  9. [구구단](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/%EA%B5%AC%EA%B5%AC%EB%8B%A8.java)
  10. [시험 성적](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/%EC%8B%9C%ED%97%98%EC%84%B1%EC%A0%81.java)
- 
+
 </details>
 <details markdown="1">
 <summary>11번 ~ 20번</summary>
@@ -570,7 +570,7 @@
 </details>
 <details markdown="1">
 <summary>371번 ~ 380번</summary>
-
-381. [쉬운 계단 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10844.java)
+371. [쉬운 계단 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10844.java)
+372. [수들의 합](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1789.java)
 
 </details>

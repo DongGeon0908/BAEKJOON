@@ -1,5 +1,5 @@
 # BAEKJOON
-> 일주일에 5개!!
+> 일주일에 5개!!!!!
 
 <hr/>
 
@@ -10,7 +10,7 @@
 
 <hr/>
 
-### 목차
+### Code
 <details markdown="1">
 <summary>1번 ~ 10번</summary>
 

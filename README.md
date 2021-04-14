@@ -575,5 +575,6 @@
 372. [수들의 합](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1789.java)
 373. [카이사르 암호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5598.java)
 374. [퇴사](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14501.java)
+375. [팬그램](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5704.java)
 
 </details>

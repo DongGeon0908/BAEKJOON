@@ -577,5 +577,6 @@
 374. [퇴사](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14501.java)
 375. [팬그램](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5704.java)
 376. [진법 변환](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2745.java)
+377. [야바위 대장](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15814.java)
 
 </details>

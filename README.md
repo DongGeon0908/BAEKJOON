@@ -579,5 +579,6 @@
 376. [진법 변환](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2745.java)
 377. [야바위 대장](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15814.java)
 278. [오븐 시계](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2525.java)
+279. [구간 합 구하기 4](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11659.java)
 
 </details>

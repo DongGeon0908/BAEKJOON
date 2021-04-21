@@ -578,8 +578,14 @@
 375. [팬그램](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5704.java)
 376. [진법 변환](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2745.java)
 377. [야바위 대장](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15814.java)
-278. [오븐 시계](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2525.java)
-279. [구간 합 구하기 4](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11659.java)
-280. [점수 계산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2822.java)
+378. [오븐 시계](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2525.java)
+379. [구간 합 구하기 4](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11659.java)
+380. [점수 계산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2822.java)
+
+</details>
+<details markdown="1">
+<summary>381번 ~ 390번</summary>
+
+381. [UCPC는 무엇의 약자일까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15904.java)
 
 </details>

@@ -587,5 +587,6 @@
 <summary>381번 ~ 390번</summary>
 
 381. [UCPC는 무엇의 약자일까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15904.java)
+382. [홀짝 칵테일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/21312.java)
 
 </details>

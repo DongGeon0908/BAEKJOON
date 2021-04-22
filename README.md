@@ -588,5 +588,6 @@
 
 381. [UCPC는 무엇의 약자일까?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/15904.java)
 382. [홀짝 칵테일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/21312.java)
+383. [2의 제곱인가?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11966.java)
 
 </details>

@@ -590,5 +590,6 @@
 382. [홀짝 칵테일](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/21312.java)
 383. [2의 제곱인가?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11966.java)
 384. [8진수, 10진수, 16진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11816.java)
+385. [대표값](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2592.java)
 
 </details>

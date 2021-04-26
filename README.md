@@ -592,5 +592,6 @@
 384. [8진수, 10진수, 16진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11816.java)
 385. [대표값](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2592.java)
 386. [이진수 변환](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10829.java)
+387. [이진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3460.java)
 
 </details>

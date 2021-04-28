@@ -594,5 +594,6 @@
 386. [이진수 변환](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10829.java)
 387. [이진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3460.java)
 388. [오늘의 날짜는?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/16170.java)
+389. [민균이의 비밀번호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9933.java)
 
 </details>

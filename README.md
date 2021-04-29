@@ -595,5 +595,6 @@
 387. [이진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3460.java)
 388. [오늘의 날짜는?](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/16170.java)
 389. [민균이의 비밀번호](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9933.java)
+390. [내 학점을 구해줘](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10984.java)
 
 </details>

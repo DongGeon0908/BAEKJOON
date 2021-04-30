@@ -598,3 +598,9 @@
 390. [내 학점을 구해줘](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10984.java)
 
 </details>
+<details markdown="1">
+<summary>391번 ~ 400번</summary>
+
+391. [좌표 압축](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18870.java)
+
+</details>

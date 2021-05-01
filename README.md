@@ -602,5 +602,6 @@
 <summary>391번 ~ 400번</summary>
 
 391. [좌표 압축](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18870.java)
+392. [분산처리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1009.java)
 
 </details>

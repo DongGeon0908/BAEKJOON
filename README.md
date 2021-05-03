@@ -604,5 +604,6 @@
 391. [좌표 압축](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18870.java)
 392. [분산처리](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1009.java)
 393. [막대기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1094.java)
+394. [농구 경기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1159.java)
 
 </details>

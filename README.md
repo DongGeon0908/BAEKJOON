@@ -10,6 +10,15 @@
 
 <hr/>
 
+### 코드사용 주의점!!
+ + 파일명을 백준 문제 번호로 지정했습니다!
+ + 실제로 코드를 다운 받아서 실행하실때는 자바 파일명을 Main으로 바꾸고 실행하셔야 합니다!
+ + 혹은, 해당 파일명으로 클래스명을 바꿔주셔야 합니당!
+
+> 오늘도 즐거운 코딩하세용!
+
+<hr/>
+
 ### Code
 <details markdown="1">
 <summary>1번 ~ 10번</summary>
@@ -611,5 +620,11 @@
 398. [수학적 호기심](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9094.java)
 399. [한조서열정리하고옴ㅋㅋ](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14659.java)
 400. [거울, 오! 거울](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4740.java)
+
+</details>
+<details markdown="1">
+<summary>401번 ~ 410번</summary>
+
+401. [팰린드롬](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10174.java)
 
 </details>

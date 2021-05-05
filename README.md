@@ -607,5 +607,6 @@
 394. [농구 경기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1159.java)
 395. [쉽게 푸는 문제](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1292.java)
 396. [Yangjojang of The Year](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11557.java)
+397. [파일 완전 삭제](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9243.java)
 
 </details>

@@ -626,5 +626,6 @@
 <summary>401번 ~ 410번</summary>
 
 401. [팰린드롬](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10174.java)
+402. [애너그램](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/6996..java)
 
 </details>

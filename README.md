@@ -628,5 +628,6 @@
 401. [팰린드롬](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10174.java)
 402. [애너그램](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/6996..java)
 403. [Serious Problem](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17094.java)
+404. [BABBA](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9625.java)
 
 </details>

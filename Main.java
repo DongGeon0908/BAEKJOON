@@ -15,6 +15,10 @@ public class Main {
 
 		// buffer에 들어감
 		// bw.write(문자열);
+		
+		// 문자열 뒤집기
+		// StringBuffer sb = new StringBuffer(cnp);
+		// String reversed = sb.reverse().toString();
 
 		// 개행
 		// bw.newLine();

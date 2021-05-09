@@ -637,3 +637,9 @@
 410. [도비의 난독증 테스트](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2204.java)
 
 </details>
+<details markdown="1">
+<summary>410번 ~ 411번</summary>
+
+411. [전자레인지](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14470.java)
+
+</details>

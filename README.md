@@ -642,5 +642,6 @@
 
 411. [전자레인지](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14470.java)
 412. [유진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1356.java)
+413. [카드1](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2161.java)
 
 </details>

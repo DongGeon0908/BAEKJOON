@@ -641,5 +641,6 @@
 <summary>410번 ~ 411번</summary>
 
 411. [전자레인지](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14470.java)
+412. [유진수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1356.java)
 
 </details>

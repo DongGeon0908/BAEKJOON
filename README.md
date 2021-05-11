@@ -649,5 +649,6 @@
 417. [연속구간](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2495.java)
 418. [회사에 있는 사람](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/7785.java)
 419. [점화식](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13699.java)
+420. [공 바꾸기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10813.java)
 
 </details>

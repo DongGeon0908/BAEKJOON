@@ -1,30 +1,36 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Main {
-
 	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		String data = br.readLine();
-		String[] tmp = data.split(" ");
+		// TODO Auto-generated method stub
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-		String[] N = new String[Integer.parseInt(tmp[0])];
-		for (int i = 0; i < Integer.parseInt(tmp[0]); i++) {
-			N[i] = br.readLine();
+		String[] num = bf.readLine().split(" ");
+		int N = Integer.parseInt(num[0]);
+		int M = Integer.parseInt(num[1]);
+
+		Map<String, Integer> S = new HashMap<String, Integer>();
+		for (int i = 0; i < N; i++) {
+			S.put(bf.readLine(), i);
 		}
 
 		int result = 0;
-		for (int i = 0; i < Integer.parseInt(tmp[1]); i++) {
-			String M = br.readLine();
-			for (int j = 0; j < Integer.parseInt(tmp[0]); j++) {
-				if (N[j].equals(M)) {
-					result = result + 1;
-					break;
-				}
+		while (M-- > 0) {
+			if (S.containsKey(bf.readLine())) {
+				result++;
 			}
 		}
-		System.out.println(result);
 
+		bw.write(Integer.toString(result));
+		bw.flush();
+		bw.close();
+		bf.close();
 	}
 }

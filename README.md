@@ -656,5 +656,6 @@
 <summary>411번 ~ 420번</summary>
 
 421. [단어 뒤집기 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/17413.java)
+422. [3n+1 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14920.java)
 
 </details>

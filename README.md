@@ -659,5 +659,6 @@
 422. [3n+1 수열](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/14920.java)
 423. [큐 2](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/18258.java)
 424. [반지](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/5555.java)
+425. [문서 검색](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1543.java)
 
 </details>

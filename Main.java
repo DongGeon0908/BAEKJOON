@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));// 선언
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
 		// buffer로 읽기
 		// bf.readLine();

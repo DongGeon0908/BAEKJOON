@@ -671,5 +671,6 @@
 <summary>431번 ~ 440번</summary>
 
 431. [히든 넘버](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/8595.java)
+432. [바이러스](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2606.java)
 
 </details>

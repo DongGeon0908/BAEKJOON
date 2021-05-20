@@ -3,53 +3,64 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayDeque;
-import java.util.Deque;
 import java.util.Stack;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-		Stack<String> stack = new Stack<>();
+		Stack<Character> leftStack = new Stack<Character>();
+		Stack<Character> rightStack = new Stack<Character>();
 
-		String data = bf.readLine();
+		String input = br.readLine();
 
-		for (int i = 0; i < data.length(); i++) {
-			stack.push(String.valueOf(data.charAt(i)));
+		for (int i = 0; i < input.length(); i++) {
+			leftStack.push(input.charAt(i));
 		}
-		int cursor = stack.size();
 
-		int N = Integer.parseInt(bf.readLine());
+		int n = Integer.parseInt(br.readLine());
 
-		for (int i = 0; i < N; i++) {
-			String tmp = bf.readLine();
-			if (tmp.equals("L")) {
-				if (cursor != 0) {
-					cursor -= 1;
+		for (int i = 0; i < n; i++) {
+
+			String command = br.readLine();
+
+			// A.startsWith(B) -> A가 B로 시작하는지
+			// B.endsWith(B) -> B가 A로 끝나는지
+
+			if (command.startsWith("L")) {
+				if (!leftStack.empty()) {
+					rightStack.push(leftStack.pop());
 				}
-			} else if (tmp.equals("D")) {
-				if (cursor != stack.size()) {
-					cursor += 1;
+			} else if (command.startsWith("D")) {
+				if (!rightStack.empty()) {
+					leftStack.push(rightStack.pop());
 				}
-			} else if (tmp.equals("B")) {
-				if (cursor != 0) {
-					stack.remove(cursor - 1);
+			} else if (command.startsWith("B")) {
+				if (!leftStack.empty()) {
+					leftStack.pop();
 				}
-			} else {
-				String[] cnp = tmp.split(" ");
-				stack.add(cursor, cnp[1]);
+			} else if (command.startsWith("P")) {
+				String[] tmp = command.split(" ");
+
+				for (int j = 0; j < tmp[1].length(); j++) {
+					leftStack.push(tmp[1].charAt(j));
+				}
 			}
+
 		}
 
-		for (String s : stack) {
-			bw.write(s);
+		while (!leftStack.empty()) {
+			rightStack.push(leftStack.pop());
+		}
+
+		while (!rightStack.empty()) {
+			bw.write(rightStack.pop());
 		}
 
 		bw.flush();
 		bw.close();
-		bf.close();
+		br.close();
 	}
 }

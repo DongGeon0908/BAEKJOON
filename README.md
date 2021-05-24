@@ -686,5 +686,6 @@
 <summary>441번 ~ 450번</summary>
 
 441. [돌 게임](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/9655.java)
+442. [30](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/10610.java)
 
 </details>

@@ -692,5 +692,6 @@
 445. [생태학](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/4358.java)
 446. [스캐너](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/3035.java)
 447. [카드](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11652.java)
+448. [K번째 수](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/11004.java)
 
 </details>

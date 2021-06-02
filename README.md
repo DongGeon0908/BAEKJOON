@@ -701,5 +701,6 @@
 <summary>451번 ~ 460번</summary>
 
 451. [사칙연산](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13420.java)
+452. [타일 장식물](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/13301.java)
 
 </details>

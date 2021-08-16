@@ -716,5 +716,6 @@
 <summary>461번 ~ 470번</summary>
 
 461. [단지번호붙이기](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/2667.java)
+462. [숫자 정사각형](https://github.com/DongGeon0908/BAEKJOON/blob/master/java/1051.java)
 
 </details>
